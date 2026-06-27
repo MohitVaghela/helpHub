@@ -23,8 +23,8 @@
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <project-name>
+git clone https://github.com/MohitVaghela/helpHub
+cd helpHub
 ```
 
 ### Install dependencies
